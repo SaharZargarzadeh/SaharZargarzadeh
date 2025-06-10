@@ -5,9 +5,9 @@
 
 ---
 
-I'm a Ph.D. researcher specializing in **adversarial machine learning**, **power-based side-channel analysis**, and **IoT security**. My work focuses on building **robust anomaly detection systems** using **multimodal data** (e.g., power traces, system calls), and enhancing them with **transformer-based architectures** and **explainable AI**. At HP, I also incorporate **Microsoft Threat Modeling** practices into secure ML pipeline design for personal device protection.
+I'm a Ph.D. researcher specializing in **adversarial machine learning**, **power-based side-channel analysis**, and **IoT security**. My work focuses on building **robust anomaly detection systems** using **multimodal data** (e.g., power traces, system calls), and enhancing them with **transformer-based architectures** and **explainable AI**.
 
-💼 I'm currently interning with the **Personal Devices team at HP**, working on deploying secure and interpretable AI/ML pipelines using **Vertex AI** and **TensorFlow**.
+💼 I'm currently interning with the **Personal Devices team at HP**, incorporate **Microsoft Threat Modeling** practices into secure and interpretable AI/ML pipelines using **Vertex AI** and **TensorFlow**.
 
 ---
 
