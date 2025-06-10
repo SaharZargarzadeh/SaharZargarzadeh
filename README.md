@@ -5,7 +5,7 @@
 
 ---
 
-I'm a Ph.D. researcher specializing in **adversarial machine learning**, **power-based side-channel analysis**, and **IoT security**. My current research focuses on evading AI-powered malware detection by perturbing power signatures using deep learning and explainability tools such as SHAP. I enjoy applying cutting-edge ML techniques to real-world problems, especially at the intersection of **security**, **embedded systems**, and **AI robustness**.
+I'm a Ph.D. researcher specializing in **adversarial machine learning**, **power-based side-channel analysis**, and **IoT security**. My work focuses on building **robust anomaly detection systems** using **multimodal data** (e.g., power traces, system calls), and enhancing them with **transformer-based architectures** and **explainable AI**. At HP, I also incorporate **Microsoft Threat Modeling** practices into secure ML pipeline design for personal device protection.
 
 💼 I'm currently interning with the **Personal Devices team at HP**, working on deploying secure and interpretable AI/ML pipelines using **Vertex AI** and **TensorFlow**.
 
@@ -14,10 +14,10 @@ I'm a Ph.D. researcher specializing in **adversarial machine learning**, **power
 ## 🧠 Core Expertise
 
 - **Languages**: Python, C#, Java, SQL, JavaScript, jQuery
-- **AI/ML Tools**: TensorFlow, PyTorch, LSTM, CNN, SHAP, PCA, GANs, Transformers, Huggingface
+- **AI/ML Tools**: TensorFlow, PyTorch, BiLSTM, Attention-based CNN , SHAP, PCA, GANs, Transformers, Huggingface
 - **Systems & Platforms**: FreeRTOS, Google Colab, .NET Core, Docker, Git
 - **Cloud & Deployment**: Google Cloud (Vertex AI), REST APIs, MongoDB, MySQL
-- **Special Topics**: GenAI, Power Signature Analysis, Side-Channel Attacks, Adversarial Training, IoT Malware
+- **Special Topics**: GenAI, Side-Channel Attacks, Adversarial Training, IoT Malware, threat modeling, Power Signature Analysis
 
 ---
 
