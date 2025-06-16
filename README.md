@@ -35,6 +35,7 @@ I'm a Ph.D. researcher specializing in **adversarial machine learning**, **power
   Implements LSTM, BiLSTM, CNN+Attention, and Autoencoder+MLP architectures with SHAP-based feature targeting.
 
 - 🔍 **Semantic Search for Movies (Hackathon6)**
+  
   🚀 [semantic-movie-search](https://github.com/SaharZargarzadeh/semantic-movie-search-hackathon6)  
   _Built a Streamlit app using Huggingface + Pinecone for semantic movie recommendations._
 
