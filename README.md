@@ -72,3 +72,9 @@ I'm a Ph.D. researcher specializing in **adversarial machine learning**, **power
 - 📧 sxz3379@mavs.uta.edu
 
 ---
+
+## 📝 Related Blog Post
+
+📖 Read the full story behind this project on my blog:  
+**[Building MovieSeek: Semantic Movie Search with Pinecone and LLMs](https://saharzargarzadeh.github.io/posts/movie-recommender-semantic-search/)**  
+
