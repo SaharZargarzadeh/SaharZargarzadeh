@@ -9,6 +9,10 @@ I'm a Ph.D. researcher specializing in **adversarial machine learning**, **power
 
 💼 I'm currently interning with the **Personal Devices team at HP**, incorporate **Microsoft Threat Modeling** practices into secure and interpretable AI/ML pipelines using **Vertex AI** and **TensorFlow**.
 
+If you're interested in my research work on AI robustness and adversarial attacks on IoT devices, check out my latest post:  
+🔐 **[Securing AI/ML Models in IoT Devices: Lessons from Power-Based Adversarial Attacks](https://saharzargarzadeh.github.io/posts/power-side-channel-attacks/)**  
+
+
 ---
 
 ## 🧠 Core Expertise
@@ -72,9 +76,4 @@ I'm a Ph.D. researcher specializing in **adversarial machine learning**, **power
 - 📧 sxz3379@mavs.uta.edu
 
 ---
-
-## 📝 Related Blog Post
-
-📖 Read the full story behind this project on my blog:  
-**[Building MovieSeek: Semantic Movie Search with Pinecone and LLMs](https://saharzargarzadeh.github.io/posts/movie-recommender-semantic-search/)**  
 
