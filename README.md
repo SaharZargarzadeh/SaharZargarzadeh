@@ -34,7 +34,8 @@ I'm a Ph.D. researcher specializing in **adversarial machine learning**, **power
   _Adversarial dummy code injection to evade power-based AI malware detectors._  
   Implements LSTM, BiLSTM, CNN+Attention, and Autoencoder+MLP architectures with SHAP-based feature targeting.
 
-- 🔍 **Semantic Search for Movies (Hackathon6)**  
+- 🔍 **Semantic Search for Movies (Hackathon6)**
+  🚀 [semantic-movie-search](https://github.com/SaharZargarzadeh/semantic-movie-search-hackathon6)  
   _Built a Streamlit app using Huggingface + Pinecone for semantic movie recommendations._
 
 - 🧠 **Image Captioning with CNN + Transformer**  
