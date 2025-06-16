@@ -23,6 +23,13 @@ I'm a Ph.D. researcher specializing in **adversarial machine learning**, **power
 
 ## 🔬 Selected Projects
 
+
+-  🧠 **Featured Project: AWS Agentic AI Workshop**
+
+🚀 [aws-agentic-ai-workshop](https://github.com/SaharZargarzadeh/aws-agentic-ai-workshop)  
+_Build cost-efficient, structured LLM agents using SageMaker, Bedrock, CrewAI, and Langfuse — complete with visualizations, tool chaining, and observability.
+
+
 - 🛡 **PowerAdversarial-ML**  
   _Adversarial dummy code injection to evade power-based AI malware detectors._  
   Implements LSTM, BiLSTM, CNN+Attention, and Autoencoder+MLP architectures with SHAP-based feature targeting.
