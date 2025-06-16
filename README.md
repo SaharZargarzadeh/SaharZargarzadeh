@@ -42,7 +42,9 @@ I'm a Ph.D. researcher specializing in **adversarial machine learning**, **power
 - 🧠 **Image Captioning with CNN + Transformer**  
   _Used EfficientNet with LSTM Transformer Decoder to generate visual captions with high BLEU scores._
 
-- 📋 **LLM Profile Matcher**  
+- 📋 **LLM Profile Matcher**
+
+  🚀 [llm-profile-matcher](https://github.com/SaharZargarzadeh/llm-profile-matcher)   
   _AI agent for expert-matching competition using embeddings + reasoning from vector similarity._
 
 ---
