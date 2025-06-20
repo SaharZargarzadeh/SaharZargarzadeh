@@ -41,7 +41,8 @@ If you're interested in my research work on AI robustness and adversarial attack
 - 🛡 **Explainable AI Assistant (GenAI 2025)**  
  
      🤖 [Explainable Gemini-powered assistant for IoT power anomaly detection](https://github.com/SaharZargarzadeh/Explainable-AI-Assistant-IoT) 
-    _Built with Retrieval-Augmented Generation (RAG), embeddings, and few-shot prompting as part of Google’s 5-Day Generative AI Capstone._
+
+   _Built with Retrieval-Augmented Generation (RAG), embeddings, and few-shot prompting as part of Google’s 5-Day Generative AI Capstone._
 
 
 
