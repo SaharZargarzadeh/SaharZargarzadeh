@@ -38,6 +38,13 @@ If you're interested in my research work on AI robustness and adversarial attack
   _Adversarial dummy code injection to evade power-based AI malware detectors._  
   Implements LSTM, BiLSTM, CNN+Attention, and Autoencoder+MLP architectures with SHAP-based feature targeting.
 
+- 🛡 **Explainable AI Assistant (GenAI 2025)**  
+ 
+     🤖 [Explainable Gemini-powered assistant for IoT power anomaly detection](https://github.com/SaharZargarzadeh/Explainable-AI-Assistant-IoT) 
+    _Built with Retrieval-Augmented Generation (RAG), embeddings, and few-shot prompting as part of Google’s 5-Day Generative AI Capstone._
+
+
+
 - 🔍 **Semantic Search for Movies (Hackathon6)**
   
   🚀 [semantic-movie-search](https://github.com/SaharZargarzadeh/semantic-movie-search-hackathon6)  
