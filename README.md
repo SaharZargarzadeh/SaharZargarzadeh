@@ -51,7 +51,7 @@ If you're interested in my research work on AI robustness and adversarial attack
 - 🧠 **Image Captioning with CNN + Transformer**
 
   🚀 [Transformer-based-Image-Captioning](https://github.com/SaharZargarzadeh/ImageCaptioning-Transformer-EfficientNet)
-      _Used EfficientNet with LSTM Transformer Decoder to generate visual captions with high BLEU scores._
+    _Used EfficientNet with LSTM Transformer Decoder to generate visual captions with high BLEU scores._
 
 - 📋 **LLM Profile Matcher**
 
