@@ -40,18 +40,13 @@ If you're interested in my research work on AI robustness and adversarial attack
 
 - 🛡 **Explainable AI Assistant (GenAI 2025)**
 
-  🚀 [Explainable Gemini-powered assistant for IoT power anomaly detection](https://github.com/SaharZargarzadeh/Explainable-AI-Assistant-IoT)  
+  🤖 [Explainable Gemini-powered assistant for IoT power anomaly detection](https://github.com/SaharZargarzadeh/Explainable-AI-Assistant-IoT)  
     _Built with Retrieval-Augmented Generation (RAG), embeddings, and few-shot prompting as part of Google’s 5-Day Generative AI Capstone.
  
-    🤖 [Explainable Gemini-powered assistant for IoT power anomaly detection](https://github.com/SaharZargarzadeh/Explainable-AI-Assistant-IoT) 
-    _Built with Retrieval-Augmented Generation (RAG), embeddings, and few-shot prompting as part of Google’s 5-Day Generative AI Capstone.
-
-
-
 - 🔍 **Semantic Search for Movies (Hackathon6)**
   
-      🚀 [semantic-movie-search](https://github.com/SaharZargarzadeh/semantic-movie-search-hackathon6)  
-      _Built a Streamlit app using Huggingface + Pinecone for semantic movie recommendations._
+  🚀 [semantic-movie-search](https://github.com/SaharZargarzadeh/semantic-movie-search-hackathon6)  
+    _Built a Streamlit app using Huggingface + Pinecone for semantic movie recommendations._
 
 - 🧠 **Image Captioning with CNN + Transformer**
       🚀 [Transformer-based-Image-Captioning](https://github.com/SaharZargarzadeh/ImageCaptioning-Transformer-EfficientNet)
