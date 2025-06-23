@@ -49,13 +49,14 @@ If you're interested in my research work on AI robustness and adversarial attack
     _Built a Streamlit app using Huggingface + Pinecone for semantic movie recommendations._
 
 - 🧠 **Image Captioning with CNN + Transformer**
-      🚀 [Transformer-based-Image-Captioning](https://github.com/SaharZargarzadeh/ImageCaptioning-Transformer-EfficientNet)
+
+  🚀 [Transformer-based-Image-Captioning](https://github.com/SaharZargarzadeh/ImageCaptioning-Transformer-EfficientNet)
       _Used EfficientNet with LSTM Transformer Decoder to generate visual captions with high BLEU scores._
 
 - 📋 **LLM Profile Matcher**
 
   🚀 [llm-profile-matcher](https://github.com/SaharZargarzadeh/llm-profile-matcher)   
-  _AI agent for expert-matching competition using embeddings + reasoning from vector similarity._
+     _AI agent for expert-matching competition using embeddings + reasoning from vector similarity._
 
 ---
 
